@@ -1,0 +1,15 @@
+# Start with asking yourself - If applied, this commit will ... 
+# make this imperative, i.e., "Fix Bug" instead of "Fixed / Fixes bug"
+#
+# Prefix the message with one of the tags - 
+#   build, chore, ci, docs, feat, fix, perf, refactor, revert, style, test
+# So, the heading becomes - 
+#
+# [$tag]: <your commit heading here> [max. 70 chars]
+
+# After that, leave a line and explain stuff like why this change is being made, etc.
+
+# Provide links to any relevant tickets, articles or other resources
+# - JIRA ticket:
+# - Github issue:
+# - See also: <link> [<link>]
